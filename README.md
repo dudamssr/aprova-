@@ -141,8 +141,3 @@ flutter run
 - Plataforma disponível para Web e Mobile
 
 ---
----
-
-## 📄 Licença
-
-Projeto desenvolvido para fins educacionais.
