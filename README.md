@@ -1,4 +1,4 @@
-# Aprov+
+# Aprov +
 
 ##  Descrição do Projeto
 
@@ -65,7 +65,7 @@ Oferecer um ambiente único onde o estudante consiga estudar, praticar e acompan
 
 1. Clone o repositório:
 ```bash
-git clone 
+git clone https://github.com/dudamssr/aprova-.git
 ```
 
 2. Acesse a pasta do projeto:
