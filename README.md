@@ -141,3 +141,6 @@ flutter run
 - Plataforma disponível para Web e Mobile
 
 ---
+
+## Protótipo
+- Desktop: https://aprovmaisdesk.base44.app
