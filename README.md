@@ -65,7 +65,7 @@ Oferecer um ambiente único onde o estudante consiga estudar, praticar e acompan
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/dudamssr/aprova-.git
+git clone https://github.com/dudamssr/aprova-mais.git
 ```
 
 2. Acesse a pasta do projeto:
